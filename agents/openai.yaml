@@ -1,0 +1,4 @@
+interface:
+  display_name: "小说改编短剧"
+  short_description: "从喜欢的小说挑出适合拍摄的片段，制作角色、分镜与有声短剧"
+  default_prompt: "用 $novel-to-short-drama 把我提供的小说改编成短剧，先选段，再完成角色、分镜和成片。"
